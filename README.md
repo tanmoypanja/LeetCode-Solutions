@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
+| [0035-search-insert-position](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0283-move-zeroes](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [1470-shuffle-the-array](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
@@ -58,4 +59,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0035-search-insert-position](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 <!---LeetCode Topics End-->
