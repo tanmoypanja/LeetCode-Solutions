@@ -35,6 +35,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0058-length-of-last-word](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0709-to-lower-case](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0709-to-lower-case/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
