@@ -9,6 +9,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0268-missing-number](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0724-find-pivot-index](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [1470-shuffle-the-array](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -31,6 +32,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0724-find-pivot-index](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
