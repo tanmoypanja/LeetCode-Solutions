@@ -30,6 +30,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
+| [0013-roman-to-integer](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0268-missing-number](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Prefix Sum
@@ -44,6 +45,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0058-length-of-last-word](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
@@ -56,6 +58,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0268-missing-number](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
