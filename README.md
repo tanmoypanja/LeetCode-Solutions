@@ -12,6 +12,7 @@
 | [0053-maximum-subarray](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0088-merge-sorted-array](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0169-majority-element](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
@@ -38,6 +39,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0169-majority-element](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -84,6 +86,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -106,6 +109,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 ## Divide and Conquer
@@ -113,6 +117,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0169-majority-element](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
