@@ -110,6 +110,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0268-missing-number](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0374-guess-number-higher-or-lower](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -146,4 +147,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 <!---LeetCode Topics End-->
