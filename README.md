@@ -19,6 +19,7 @@
 | [0283-move-zeroes](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0724-find-pivot-index](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0896-monotonic-array](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0896-monotonic-array/) | Easy |
+| [0941-valid-mountain-array](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0941-valid-mountain-array/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
