@@ -13,6 +13,7 @@
 | [0088-merge-sorted-array](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
@@ -81,6 +82,7 @@
 | [0067-add-binary](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0189-rotate-array](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
@@ -94,6 +96,7 @@
 | [0027-remove-element](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0189-rotate-array](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
