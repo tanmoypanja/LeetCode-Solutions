@@ -76,6 +76,7 @@
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0050-powx-n](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0067-add-binary](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
@@ -145,6 +146,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
