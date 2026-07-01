@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0088-merge-sorted-array](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
@@ -117,6 +118,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0509-fibonacci-number](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Binary Search
