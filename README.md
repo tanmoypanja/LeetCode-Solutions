@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0011-container-with-most-water](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0027-remove-element](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
@@ -103,6 +104,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0027-remove-element](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
@@ -182,4 +184,8 @@
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
