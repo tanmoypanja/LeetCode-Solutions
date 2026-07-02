@@ -204,4 +204,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 <!---LeetCode Topics End-->
