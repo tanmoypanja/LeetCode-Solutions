@@ -24,6 +24,7 @@
 | [0283-move-zeroes](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0414-third-maximum-number](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0896-monotonic-array](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0896-monotonic-array/) | Easy |
 | [0941-valid-mountain-array](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0941-valid-mountain-array/) | Easy |
@@ -58,11 +59,13 @@
 | [0268-missing-number](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Matrix
