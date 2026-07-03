@@ -77,6 +77,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0013-roman-to-integer](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0058-length-of-last-word](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0058-length-of-last-word/) | Easy |
@@ -113,6 +114,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
@@ -135,6 +137,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0053-maximum-subarray](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
