@@ -38,6 +38,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
@@ -72,6 +73,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
