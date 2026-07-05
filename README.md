@@ -40,6 +40,7 @@
 | [1672-richest-customer-wealth](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1773-count-items-matching-a-rule](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -96,6 +97,7 @@
 | [0412-fizz-buzz](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0709-to-lower-case](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0709-to-lower-case/) | Easy |
+| [1773-count-items-matching-a-rule](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 ## Math
