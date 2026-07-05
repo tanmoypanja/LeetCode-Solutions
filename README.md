@@ -116,6 +116,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1925-count-square-sum-triples](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1925-count-square-sum-triples/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -227,4 +228,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1925-count-square-sum-triples](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1925-count-square-sum-triples/) | Easy |
 <!---LeetCode Topics End-->
