@@ -23,6 +23,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0162-find-peak-element](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
@@ -178,6 +179,7 @@
 | [0069-sqrtx](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0162-find-peak-element](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0278-first-bad-version/) | Easy |
