@@ -114,6 +114,7 @@
 | [0412-fizz-buzz](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0709-to-lower-case](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0709-to-lower-case/) | Easy |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1773-count-items-matching-a-rule](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -259,6 +260,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0394-decode-string](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0394-decode-string/) | Medium |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
