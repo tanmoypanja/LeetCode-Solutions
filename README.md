@@ -11,6 +11,7 @@
 | [0015-3sum](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0048-rotate-image](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
@@ -81,6 +82,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 ## String
@@ -108,6 +110,7 @@
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0048-rotate-image](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0067-add-binary](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
