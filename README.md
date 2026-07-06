@@ -32,6 +32,7 @@
 | [0283-move-zeroes](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0414-third-maximum-number](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0896-monotonic-array](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0896-monotonic-array/) | Easy |
@@ -181,6 +182,7 @@
 | [0268-missing-number](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
