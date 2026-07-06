@@ -28,6 +28,7 @@
 | [0169-majority-element](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0228-summary-ranges](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0228-summary-ranges/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
