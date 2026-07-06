@@ -14,6 +14,7 @@
 | [0048-rotate-image](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
+| [0057-insert-interval](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0057-insert-interval/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
