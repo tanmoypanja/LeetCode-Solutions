@@ -26,6 +26,7 @@
 | [0189-rotate-array](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0414-third-maximum-number](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0414-third-maximum-number/) | Easy |
@@ -87,6 +88,7 @@
 | [0048-rotate-image](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -172,6 +174,7 @@
 | [0035-search-insert-position](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
@@ -203,6 +206,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0240-search-a-2d-matrix-ii](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
