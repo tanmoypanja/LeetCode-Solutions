@@ -39,6 +39,7 @@
 | [0724-find-pivot-index](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0896-monotonic-array](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0896-monotonic-array/) | Easy |
 | [0941-valid-mountain-array](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0941-valid-mountain-array/) | Easy |
+| [0946-validate-stack-sequences](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -61,6 +62,7 @@
 | [0059-spiral-matrix-ii](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0067-add-binary](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0412-fizz-buzz](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
+| [0946-validate-stack-sequences](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -260,6 +262,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0394-decode-string](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0394-decode-string/) | Medium |
+| [0946-validate-stack-sequences](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
