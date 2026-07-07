@@ -119,6 +119,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0394-decode-string](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0394-decode-string/) | Medium |
 | [0412-fizz-buzz](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
+| [0468-validate-ip-address](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0468-validate-ip-address/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0709-to-lower-case](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0709-to-lower-case/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
