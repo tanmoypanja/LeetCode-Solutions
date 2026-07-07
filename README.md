@@ -126,6 +126,7 @@
 | [0468-validate-ip-address](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0468-validate-ip-address/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0709-to-lower-case](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0709-to-lower-case/) | Easy |
+| [0831-masking-personal-information](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0831-masking-personal-information/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1773-count-items-matching-a-rule](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
