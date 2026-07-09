@@ -153,6 +153,7 @@
 | [0202-happy-number](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0292-nim-game](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0292-nim-game/) | Easy |
 | [0326-power-of-three](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0326-power-of-three/) | Easy |
 | [0412-fizz-buzz](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
@@ -310,4 +311,12 @@
 | [0022-generate-parentheses](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0046-permutations/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0292-nim-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
