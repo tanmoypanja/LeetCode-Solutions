@@ -153,6 +153,7 @@
 | [0202-happy-number](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0326-power-of-three](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0326-power-of-three/) | Easy |
 | [0412-fizz-buzz](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -256,6 +257,7 @@
 | ------- | ------- |
 | [0050-powx-n](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
+| [0326-power-of-three](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0326-power-of-three/) | Easy |
 | [0394-decode-string](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0394-decode-string/) | Medium |
 | [0509-fibonacci-number](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
