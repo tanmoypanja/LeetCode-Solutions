@@ -157,6 +157,7 @@
 | [0326-power-of-three](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0326-power-of-three/) | Easy |
 | [0412-fizz-buzz](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [1025-divisor-game](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1025-divisor-game/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -201,6 +202,7 @@
 | [0119-pascals-triangle-ii](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0509-fibonacci-number](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [1025-divisor-game](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1025-divisor-game/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -315,8 +317,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0292-nim-game/) | Easy |
+| [1025-divisor-game](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1025-divisor-game/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0292-nim-game/) | Easy |
+| [1025-divisor-game](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1025-divisor-game/) | Easy |
 <!---LeetCode Topics End-->
