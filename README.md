@@ -44,6 +44,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
+| [0885-spiral-matrix-iii](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0885-spiral-matrix-iii/) | Medium |
 | [0896-monotonic-array](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0896-monotonic-array/) | Easy |
 | [0941-valid-mountain-array](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0941-valid-mountain-array/) | Easy |
 | [0946-validate-stack-sequences](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0946-validate-stack-sequences/) | Medium |
@@ -70,6 +71,7 @@
 | [0067-add-binary](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0412-fizz-buzz](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0498-diagonal-traverse](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0498-diagonal-traverse/) | Medium |
+| [0885-spiral-matrix-iii](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0885-spiral-matrix-iii/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
@@ -108,6 +110,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0498-diagonal-traverse](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0498-diagonal-traverse/) | Medium |
+| [0885-spiral-matrix-iii](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0885-spiral-matrix-iii/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 ## String
 | Problem Name | Difficulty |
