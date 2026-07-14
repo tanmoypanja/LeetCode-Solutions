@@ -311,6 +311,7 @@
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1291-sequential-digits](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1291-sequential-digits/) | Medium |
 | [1925-count-square-sum-triples](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1925-count-square-sum-triples/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
