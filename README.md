@@ -49,6 +49,7 @@
 | [0941-valid-mountain-array](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0941-valid-mountain-array/) | Easy |
 | [0946-validate-stack-sequences](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1089-duplicate-zeros](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1089-duplicate-zeros/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
@@ -192,6 +193,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1089-duplicate-zeros](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1089-duplicate-zeros/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
