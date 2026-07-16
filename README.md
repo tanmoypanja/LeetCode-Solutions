@@ -174,6 +174,7 @@
 | [2235-add-two-integers](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/2235-add-two-integers/) | Easy |
 | [2469-convert-the-temperature](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/2469-convert-the-temperature/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -336,4 +337,8 @@
 | ------- | ------- |
 | [0292-nim-game](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0292-nim-game/) | Easy |
 | [1025-divisor-game](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1025-divisor-game/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
