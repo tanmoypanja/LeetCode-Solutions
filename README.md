@@ -165,6 +165,7 @@
 | [0326-power-of-three](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0326-power-of-three/) | Easy |
 | [0412-fizz-buzz](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0415-add-strings/) | Easy |
+| [0507-perfect-number](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1025-divisor-game](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1025-divisor-game/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
