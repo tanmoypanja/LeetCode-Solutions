@@ -50,6 +50,7 @@
 | [0896-monotonic-array](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0896-monotonic-array/) | Easy |
 | [0941-valid-mountain-array](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0941-valid-mountain-array/) | Easy |
 | [0946-validate-stack-sequences](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0946-validate-stack-sequences/) | Medium |
+| [0950-reveal-cards-in-increasing-order](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1089-duplicate-zeros/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -77,6 +78,7 @@
 | [0498-diagonal-traverse](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0498-diagonal-traverse/) | Medium |
 | [0885-spiral-matrix-iii](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0885-spiral-matrix-iii/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0946-validate-stack-sequences/) | Medium |
+| [0950-reveal-cards-in-increasing-order](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -262,6 +264,7 @@
 | [0389-find-the-difference](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0950-reveal-cards-in-increasing-order](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Divide and Conquer
@@ -292,6 +295,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0950-reveal-cards-in-increasing-order](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
