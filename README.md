@@ -40,6 +40,7 @@
 | [0283-move-zeroes](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0414-third-maximum-number](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0414-third-maximum-number/) | Easy |
+| [0435-non-overlapping-intervals](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0498-diagonal-traverse](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0498-diagonal-traverse/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -218,6 +219,7 @@
 | [0118-pascals-triangle](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0435-non-overlapping-intervals](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0509-fibonacci-number](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1025-divisor-game](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1025-divisor-game/) | Easy |
 ## Binary Search
@@ -259,6 +261,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0389-find-the-difference](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0414-third-maximum-number/) | Easy |
+| [0435-non-overlapping-intervals](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Divide and Conquer
@@ -298,6 +301,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
