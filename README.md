@@ -11,6 +11,7 @@
 | [0015-3sum](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0037-sudoku-solver](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
@@ -84,6 +85,7 @@
 | [0001-two-sum](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0037-sudoku-solver](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0169-majority-element](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
@@ -106,6 +108,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
@@ -327,6 +330,7 @@
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0037-sudoku-solver](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0046-permutations/) | Medium |
 ## Brainteaser
