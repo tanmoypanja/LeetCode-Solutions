@@ -52,6 +52,7 @@
 | [0946-validate-stack-sequences](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0986-interval-list-intersections](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0986-interval-list-intersections/) | Medium |
 | [1089-duplicate-zeros](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1089-duplicate-zeros/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -202,6 +203,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0986-interval-list-intersections](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0986-interval-list-intersections/) | Medium |
 | [1089-duplicate-zeros](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/1089-duplicate-zeros/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Counting
@@ -355,4 +357,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Sweep Line
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0986-interval-list-intersections](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0986-interval-list-intersections/) | Medium |
 <!---LeetCode Topics End-->
