@@ -120,6 +120,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0006-zigzag-conversion/) | Medium |
+| [0008-string-to-integer-atoi](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0013-roman-to-integer](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tanmoypanja/LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
